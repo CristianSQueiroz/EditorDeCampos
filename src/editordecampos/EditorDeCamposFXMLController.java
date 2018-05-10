@@ -5,7 +5,7 @@
  */
 package editordecampos;
 
-import HashMap.CHashMap;
+import SGPNmodel.CampoDinamico;
 import Util.Utilidades;
 import java.net.URL;
 import java.util.ArrayList;
@@ -24,8 +24,6 @@ import javafx.scene.control.Button;
 import javafx.scene.control.CheckBox;
 import javafx.scene.control.ComboBox;
 import javafx.scene.control.DatePicker;
-import javafx.scene.control.Label;
-import javafx.scene.control.SelectionMode;
 import javafx.scene.control.Separator;
 import javafx.scene.control.TableColumn;
 import javafx.scene.control.TableView;
